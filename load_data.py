@@ -1,4 +1,5 @@
 # _*_ coding: utf-8 _*_
+# TO understand text data loading go to https://dzlab.github.io/dltips/en/pytorch/torchtext-datasets/
 
 import os
 import sys
